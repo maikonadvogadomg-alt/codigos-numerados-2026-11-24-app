@@ -1,0 +1,24 @@
+{
+  "titulo": "codigos-numerados-2026-11-24",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "1.html",
+      "nome": "Multi-Projetos PWA — Maikon Caldeira",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Maikon Caldeira — Aplicativos",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "claro",
+  "links": []
+}
